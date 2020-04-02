@@ -12,6 +12,10 @@
 		<maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
 		<bootstrap.version>4.3.1</bootstrap.version>
 		<springboot.version>2.2.0.RELEASE</springboot.version>
+  		<sonar.projectKey>rgenty_oc-testing-java-cours</sonar.projectKey>
+  		<sonar.organization>rgenty</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>1476626929accefd2c1d5fe9850d89ce38fb099f</sonar.login>
 	</properties>
 
 	<parent>
